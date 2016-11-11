@@ -1,6 +1,6 @@
 <?php
 
-use \eOs\Server\RestServer\RestException;
+use \eOS\Server\RestServer\RestException;
 
 class TestController
 {
