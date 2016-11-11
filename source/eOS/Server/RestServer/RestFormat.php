@@ -1,5 +1,5 @@
 <?php
-namespace eOs\Server\RestServer;
+namespace eOS\Server\RestServer;
 /**
  * Constanty pro e-OS RestServer Class
  */
