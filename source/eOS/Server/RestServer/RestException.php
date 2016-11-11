@@ -1,5 +1,5 @@
 <?php
-namespace eOs\Server\RestServer;
+namespace eOS\Server\RestServer;
                        
 use Exception;         
                        
