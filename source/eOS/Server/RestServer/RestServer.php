@@ -1,5 +1,5 @@
 <?php
-namespace eOs\Server\RestServer;
+namespace eOS\Server\RestServer;
 
 require(__DIR__ . '/RestFormat.php');
 require(__DIR__ . '/RestException.php');
