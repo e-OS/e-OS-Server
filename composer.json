@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "eOs\\Server\RestServer": "source/"
+            "eOs\\Server\\RestServer": "source/"
         }
     }
 }
