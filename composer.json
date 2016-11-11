@@ -1,0 +1,26 @@
+{
+    "name": "eOs/Server",
+    "version": "1.0.1",
+    "type": "library",
+    "description": "php rest server for e-OS REST APIs",
+    "keywords": ["e-OS", "php", "rest", "rest-server", "light-weight", "http", "json", "mit"],
+    "homepage": "https://github.com/e-OS/e-OS-Server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "O.G.olasowski | e-OS",
+            "email": "e-os@golasowski.cz",
+            "homepage": "http://www.golasowski.cz",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "eOs\\Server\RestServer": "source/"
+        }
+    }
+}
